@@ -1,0 +1,15 @@
+db.execute("""CREATE TABLE ryerson_students(
+    username text,
+    password text,
+    major text,
+    overall_gpa real,
+    percent real
+)
+""")
+
+db.execute("""CREATE TABLE ryerson_faculty(
+    username text,
+    password text,
+    position text
+)
+""")
