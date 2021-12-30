@@ -4,5 +4,5 @@ Python was used to create the programme, and the SQLite3 database was used to st
 ![SQLite3 Image](https://miro.medium.com/max/1400/0*YbsD_GziUr-eouD8.png)
 
 To Login as a Faculty in the project use the following credentials:
-username = thisisadityapatel
-password = adityaisthebest2112
+username -> thisisadityapatel
+password -> adityaisthebest2112
